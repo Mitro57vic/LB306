@@ -10,6 +10,7 @@ Filip Mitrovic, Elias Spycher, Liam Koch und Nathan Göhl
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
+Wir haben uns dazu entschieden einen Passwort Generator in der Konsole zu erstellen in Visual Studio. Dazu verwenden wir die Programmiersprache C#. Um das ganze gut zu hosten, verwenden wir GitHub. In diesem Passwort Generator sollte man Passwörter erstellen können, nach bestimmter Länge, Zeichen und Einstellungen. 
 
 In diesem Projekt erstellen wir ein Passwort-Generator. Dieses Programm erstellt sichere Passwörter für ihre Benutzer. Wir werden dieses Programm in C# als Konsolenapplikation. 
 
