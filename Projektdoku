@@ -11,8 +11,21 @@ Filip Mitrovic, Elias Spycher, Liam Koch und Nathan Göhl
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich ist, Pong ist ein Spiel, bei welchem sich zwei Balken gegenüberstehen und sich einen Ball zuspielen. Ziel ist es, den Ball hinter die Linie des Mitspielers zu befördern.
+In diesem Projekt erstellen wir ein Passwort-Generator. Dieses Programm erstellt sichere Passwörter für ihre Benutzer. Wir werden dieses Programm in C# als Konsolenapplikation. 
 
+Dieses Projekt wird nicht die Passwörter speichern. 
+
+ 
+
+Ziele: 
+
+Man soll sichere Passwörter generieren können. 
+
+Man soll entscheiden können, ob man dieses Passwort will oder ein neues erstellen will. 
+
+Man kann entscheiden, wie lange das Passwort ist. 
+
+Man kann entscheiden, ob Sonderzeichen vorkommen sollen. 
 
 
 
