@@ -36,7 +36,93 @@ Wir machen ein Spiel in Visual Studio mit WinForms, dass dem Spiel Pong ähnlich
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 
+Testkonzept
 
+Testkonzept für den Passwortgenerator in C# 
+
+Ziel: 
+
+Das Ziel dieses Testkonzepts ist es sicherzustellen, dass der Passwortgenerator in C# fehlerfrei funktioniert und alle angegebenen Funktionen korrekt umgesetzt sind. 
+
+  
+
+Testumgebung: 
+
+- Betriebssystem: Windows 11 
+
+- Entwicklungsumgebung: Visual Studio 2022 
+
+- Testen: In der Konsole testen 
+
+- Sprache: C# 
+
+  
+
+Testfälle: 
+
+1. Test auf Passwortlänge erhöhen: 
+
+   - Überprüfen, ob die Funktion zum Erhöhen der Passwortlänge korrekt funktioniert. 
+
+   - Beispiel: Setze die aktuelle Passwortlänge auf 8 und erhöhe sie auf 10. Überprüfe, ob die Länge korrekt aktualisiert wird. 
+
+ 2. Test auf Passwortlänge verkleinern: 
+
+   - Überprüfen, ob die Funktion zum Verkleinern der Passwortlänge korrekt funktioniert. 
+
+   - Beispiel: Setze die aktuelle Passwortlänge auf 12 und verkleinere sie auf 8. Überprüfe, ob die Länge korrekt aktualisiert wird. 
+
+ 3. Test auf Buchstaben einbeziehen: 
+
+   - Überprüfen, ob die Funktion zum Einbeziehen von Buchstaben korrekt funktioniert. 
+
+   - Beispiel: Aktiviere die Option für Buchstaben und generiere ein Passwort. Überprüfe, ob das Passwort mindestens einen Buchstaben enthält. 
+
+ 4. Test auf Zahlen einbeziehen: 
+
+   - Überprüfen, ob die Funktion zum Einbeziehen von Zahlen korrekt funktioniert. 
+
+   - Beispiel: Aktiviere die Option für Zahlen und generiere ein Passwort. Überprüfe, ob das Passwort mindestens eine Zahl enthält.  
+
+5. Test auf Passwortgenerierung: 
+
+   - Überprüfen, ob die Funktion zum Generieren eines Passworts korrekt funktioniert. 
+
+   - Beispiel: Generiere ein Passwort mit einer Länge von 10 Zeichen, das Buchstaben und Zahlen enthält. Überprüfe, ob das generierte Passwort den Anforderungen entspricht. 
+
+ 6. Test auf Passwortbestätigung: 
+
+   - Überprüfen, ob die Funktion zum Bestätigen des Passworts korrekt funktioniert. 
+
+   - Beispiel: Bestätige ein generiertes Passwort und überprüfe, ob es erfolgreich bestätigt wird. 
+
+ 7. Test auf Passwortablehnung: 
+
+   - Überprüfen, ob die Funktion zum Ablehnen des Passworts korrekt funktioniert. 
+
+   - Beispiel: Lehne ein generiertes Passwort ab und überprüfe, ob es erfolgreich abgelehnt wird. 
+
+ 8. Test auf Schliessen der Anwendung: 
+
+   - Überprüfen, ob die Funktion zum Schliessen der Anwendung korrekt funktioniert. 
+
+   - Beispiel: Schliesse die Anwendung und überprüfe, ob sie ordnungsgemäss geschlossen wird. 
+
+9. Test auf Fehlereingaben: 
+
+   - Überprüfen, ob die Anwendung fehlerhafte Eingaben angemessen abfängt und dem Benutzer eine entsprechende Fehlermeldung anzeigt. 
+
+   - Beispiel: Versuche, eine negative Passwortlänge einzugeben, und überprüfe, ob die Anwendung die Eingabe abfängt und eine Fehlermeldung ausgibt. 
+
+  
+
+Testdurchführung: 
+
+-Teste in der Konsole  
+
+-Bespricht in der Gruppe die Ergebnisse des Testes und verbessert euer Programm 
+
+- Führe die Tests regelmässig aus, um sicherzustellen, dass Änderungen am Passwortgenerator keine unerwünschten Seiteneffekte haben. 
 
 ### 1.4 Diagramme
 
