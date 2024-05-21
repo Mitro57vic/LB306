@@ -9,6 +9,7 @@ Filip Mitrovic, Elias Spycher, Liam Koch und Nathan Göhl
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |14.05.24|1.0     |Wir haben uns entschieden einen Passwort generator zu erstellen und haben uns darüber informiert und mit der Dokumentation angefangen.       |
+|21.05.24|1.1     |Wir haben uns am Morgen zu einem Meeting getroffen, in dem wir besprochen haben, wer an welchen Aufgaben arbeitet und wo Unterstützung benötigt wird. Anschliessend haben wir weiter an der Dokumentation gearbeitet.     |
 
 ## 1 Informieren
 
