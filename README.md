@@ -33,6 +33,7 @@ Man kann entscheiden, ob Sonderzeichen vorkommen sollen.
 
 
 
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
@@ -64,7 +65,7 @@ Hier ist die angepasste Tabelle mit den Testfällen in der gewünschten Reihenfo
 | 8 | Passwortgenerator ist geöffnet | Schließen der Anwendung | Anwendung wird ordnungsgemäß geschlossen |
 | 9 | Passwortgenerator ist geöffnet | Negative Passwortlänge eingeben | Fehlermeldung: "Ungültige Passwortlänge" |
 
-Diese Tabelle kann direkt in ein Word-Dokument eingefügt werden.
+
 
 Testkonzept
 
