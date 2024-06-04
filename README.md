@@ -280,8 +280,8 @@ Hier ist die vollständig ausgefüllte Tabelle:
 |   4   |    04.06.24    |     Funktioniert nicht     |   Filip Mitrovic     |
 |   5   |     04.06.24   |     Funktioniert nicht     |      Filip Mitrovic   |
 |    6  |     04.06.24   |    Funktioniert nicht      |     Filip Mitrovic    |
-|    7  |    04.06.24    |    Funktioniert      |    Filip Mitrovic     |
-|   8   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
+|    7  |    04.06.24    |    Funktioniert nicht      |    Filip Mitrovic     |
+|   8   |    04.06.24    |      Funktioniert nicht   |     Filip Mitrovic    |
 |   9   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
 |   10   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
 
