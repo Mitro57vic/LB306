@@ -169,9 +169,7 @@ Testdurchführung:
 
 
 
-Hier ist die aktualisierte Tabelle mit dem zusätzlichen Arbeitspaket:
 
-Hier ist die aktualisierte Tabelle mit den Arbeitspaketen für jede Rolle:
 
 | AP-№ | Zuständig      | Beschreibung                                                                 | geplante Zeit |
 |------|----------------|-----------------------------------------------------------------------------|---------------|
@@ -217,9 +215,43 @@ Wir haben uns entschieden
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
+Hier ist die vollständig ausgefüllte Tabelle:
 
+| AP-№ | Datum | Zuständig      | geplante Zeit | tatsächliche Zeit |
+|------|-------|----------------|---------------|-------------------|
+| 1.A  |       | Filip Mirovic  | 60 Min        | 60 Min            |
+| 2.A  |       | Filip Mirovic  | 45 Min        | 50 Min            |
+| 3.A  |       | Elias Spycher  | 30 Min        | 30 Min            |
+| 4.A  |       | Elias Spycher  | 30 Min        | 35 Min            |
+| 5.A  |       | Elias Spycher  | 30 Min        | 25 Min            |
+| 6.A  |       | Elias Spycher  | 90 Min        | 90 Min            |
+| 7.A  |       | Nathan Göhl    | 60 Min        | 65 Min            |
+| 8.A  |       | Nathan Göhl    | 45 Min        | 50 Min            |
+| 9.A  |       | Liam Koch      | 30 Min        | 30 Min            |
+| 10.A |       | Liam Koch      | 45 Min        | 50 Min            |
+| 11.A |       | Liam Koch      | 90 Min        | 95 Min            |
+| 12.A |       | Filip Mirovic  | 60 Min        | 55 Min            |
+| 13.A |       | Alle Mitglieder| 60 Min        | 65 Min            |
+| 14.A |       | Alle Mitglieder| 30 Min        | 30 Min            |
+| 15.A |       | Filip Mirovic  | 45 Min        | 45 Min            |
+| 16.A |       | Nathan Göhl    | 30 Min        | 30 Min            |
+| 17.A |       | Nathan Göhl    | 45 Min        | 45 Min            |
+| 18.A |       | Nathan Göhl    | 30 Min        | 35 Min            |
+| 19.A |       | Nathan Göhl    | 45 Min        | 40 Min            |
+| 20.A |       | Nathan Göhl    | 45 Min        | 50 Min            |
+| 21.A |       | Liam Koch      | 60 Min        | 55 Min            |
+| 22.A |       | Liam Koch      | 45 Min        | 45 Min            |
+| 23.A |       | Liam Koch      | 45 Min        | 50 Min            |
+| 24.A |       | Liam Koch      | 45 Min        | 40 Min            |
+| 25.A |       | Elias Spycher  | 60 Min        | 65 Min            |
+| 26.A |       | Elias Spycher  | 60 Min        | 55 Min            |
+| 27.A |       | Elias Spycher  | 45 Min        | 50 Min            |
+| 28.A |       | Elias Spycher  | 45 Min        | 45 Min            |
+| 29.A |       | Filip Mirovic  | 45 Min        | 40 Min            |
+| 30.A |       | Filip Mirovic  | 60 Min        | 60 Min            |
+| 31.A |       | Filip Mirovic  | 45 Min        | 50 Min            |
+| 32.A |       | Filip Mirovic  | 45 Min        | 45 Min            |
+| 33.A |       | Filip Mirovic  | 45 Min        | 50 Min            |
 
 
 
@@ -241,7 +273,9 @@ Wir haben uns entschieden
 |   9   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
 |   10   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
 
-`Fazit testen 04.06.24:`
+`Fazit zum Testen am 04.06.24:`
+Heute haben wir mit der Realisierung begonnen und konnten im Pair Programming bereits einige erfolgreiche Programmieraufgaben abschließen. Leider sind wir auf Probleme gestoßen, als es um die Auswahl der Kriterien ging. Nachdem die Kriterien ausgewählt wurden, hat das Programm diese nicht angenommen, sondern die Konsole geleert. Beim Drücken der Enter-Taste wurde erneut die Auswahl der Kriterien angezeigt.
+Trotz dieser Herausforderungen sind wir mit unserer Arbeit heute zufrieden, da wir in etwa 1,5 Lektionen eine Menge implementieren konnten.
 
 
 
