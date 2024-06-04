@@ -64,7 +64,7 @@ Man kann entscheiden, ob Sonderzeichen vorkommen sollen.
 
 
 
-### 1.3 Testfälle
+### 1.3 Testfälle Tabellarisch für eien bessere Übersicht
 
 Hier ist die angepasste Tabelle mit den Testfällen in der gewünschten Reihenfolge:
 
@@ -106,7 +106,7 @@ Testumgebung:
 
   
 
-Testfälle: 
+Testfälle Textlich: 
 
 1. Test auf Passwortlänge erhöhen: 
 
