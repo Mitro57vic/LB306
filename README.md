@@ -58,13 +58,15 @@ Hier ist die angepasste Tabelle mit den Testfällen in der gewünschten Reihenfo
 |--------|--------------|---------|-------------------|
 | 1 | Passwortgenerator ist geöffnet | Keine Eingabe | Standard-Passwortlänge: 8 Zeichen, keine Buchstaben, keine Zahlen |
 | 2 | Passwortgenerator ist geöffnet | Erhöhung der Passwortlänge auf 12 Zeichen | Passwortlänge: 12 Zeichen |
-| 3 | Passwortgenerator ist geöffnet | Aktivierung von Buchstaben | Generiertes Passwort enthält mindestens einen Buchstaben |
-| 4 | Passwortgenerator ist geöffnet | Aktivierung von Zahlen | Generiertes Passwort enthält mindestens eine Zahl |
-| 5 | Passwortgenerator ist geöffnet | Generierung eines Passworts | Passwort entspricht den angegebenen Kriterien |
-| 6 | Passwortgenerator ist geöffnet | Bestätigung des generierten Passworts | Passwort wird erfolgreich bestätigt |
-| 7 | Passwortgenerator ist geöffnet | Ablehnung des generierten Passworts | Passwort wird erfolgreich abgelehnt |
-| 8 | Passwortgenerator ist geöffnet | Schließen der Anwendung | Anwendung wird ordnungsgemäß geschlossen |
-| 9 | Passwortgenerator ist geöffnet | Negative Passwortlänge eingeben | Fehlermeldung: "Ungültige Passwortlänge" |
+| 3 | Passwortgenerator ist geöffnet | Kriterien für das Passwort können ausgewählt werden |Auswahl wird dem Benutzer im Programm bestätigt.  |
+| 4 | Passwortgenerator ist geöffnet | Aktivierung von Buchstaben | Generiertes Passwort enthält mindestens einen Buchstaben |
+| 5 | Passwortgenerator ist geöffnet | Aktivierung von Zahlen | Generiertes Passwort enthält mindestens eine Zahl |
+| 6 | Passwortgenerator ist geöffnet | Generierung eines Passworts | Passwort entspricht den angegebenen Kriterien |
+| 7 | Passwortgenerator ist geöffnet | Bestätigung des generierten Passworts | Passwort wird erfolgreich bestätigt |
+| 8 | Passwortgenerator ist geöffnet | Ablehnung des generierten Passworts | Passwort wird erfolgreich abgelehnt |
+| 9 | Passwortgenerator ist geöffnet | Schließen der Anwendung | Anwendung wird ordnungsgemäß geschlossen |
+| 10 | Passwortgenerator ist geöffnet | Negative Passwortlänge eingeben | Fehlermeldung: "Ungültige Passwortlänge" |
+
 
 
 
@@ -188,12 +190,24 @@ Wir haben uns entschieden
 
 ### 5.1 Testprotokoll
 
+04.06.24
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
+|   1   |   04.06.24    |    Funktioniert      |    Filip Mitrovic    |
+|    2  |   04.06.24    |    Funktioniert      |   Filip Mitrovic     |
+|     3 |    04.06.24   |    Funktioniert nicht      |   Filip Mitrovic     |
+|   4   |    04.06.24    |     Funktioniert nicht     |   Filip Mitrovic     |
+|   5   |     04.06.24   |     Funktioniert nicht     |      Filip Mitrovic   |
+|    6  |     04.06.24   |    Funktioniert nicht      |     Filip Mitrovic    |
+|    7  |    04.06.24    |    Funktioniert      |    Filip Mitrovic     |
+|   8   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
+|   9   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
+|   10   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
+
+`Fazit testen 04.06.24:`
 
 
-`Fazit:`
 
-Die wichtigsten Teile des Programmes sind mit Erfolg ausgegangen, somit ist unser Programm spielbar. Doch Leider konnten wir wegen geringer Zeit nicht alle unsere Wünsche für das Programm erfüllen.
+`Fazit zur LB 306:`
 
 ## 6 Auswerten
