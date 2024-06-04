@@ -165,12 +165,47 @@ Testdurchführung:
 
 ## 2 Planen
 
-| AP-№ | Zuständig | Beschreibung | geplante Zeit |
-| ---- |  --------- | ------------ | ------------- |
 
 
+Hier ist die aktualisierte Tabelle mit dem zusätzlichen Arbeitspaket:
 
+Hier ist die aktualisierte Tabelle mit den Arbeitspaketen für jede Rolle:
 
+| AP-№ | Zuständig      | Beschreibung                                                                 | geplante Zeit |
+|------|----------------|-----------------------------------------------------------------------------|---------------|
+| 1.A  | Filip Mirovic  | Implementierung der grundlegenden Konsolenanwendung                          | 60 Min        |
+| 2.A  | Filip Mirovic  | Benutzer kann die Passwortlänge eingeben                                     | 45 Min        |
+| 3.A  | Elias Spycher  | Benutzer kann wählen, ob Buchstaben enthalten sein sollen                    | 30 Min        |
+| 4.A  | Elias Spycher  | Benutzer kann wählen, ob Zahlen enthalten sein sollen                        | 30 Min        |
+| 5.A  | Elias Spycher  | Benutzer kann wählen, ob Sonderzeichen enthalten sein sollen                 | 30 Min        |
+| 6.A  | Elias Spyhcer  | Entwicklung der Logik zur Passwortgenerierung basierend auf Benutzerkriterien| 90 Min        |
+| 7.A  | Nathan Göhl  | Implementierung der Passwortvalidierung                                      | 60 Min        |
+| 8.A  | Nathan Göhl  | Implementierung der Option zur Ablehnung des generierten Passworts           | 45 Min        |
+| 9.A  | Liam Koch | Implementierung der ordnungsgemässen Schliessung der Anwendung                 | 30 Min        |
+| 10.A | Liam Koch  | Handling von ungültigen Eingaben (z.B. negative Passwortlänge)               | 45 Min        |
+| 11.A |  Liam Koch | Testfälle erstellen und Testen der Anwendung mit Unittests (Wird eventuell nicht gemacht)                           | 90 Min        |
+| 12.A | Filip Mirovic  | Fehlerbehebung und Optimierung des Codes                                     | 60 Min        |
+| 13.A | Alle Mitglieder  | Dokumentation des Projekts und der Nutzung                                   | 60 Min        |
+| 14.A | Alle Mitglieder  | Abschliessende Überprüfung und Code-Review                                    | 30 Min        |
+| 15.A | Filip Mirovic  | Regelmässiges Testen des Programms und Besprechung in der Gruppe              | 45 Min        |
+| 16.A | Nathan Göhl    | Gesamtverantwortung für das Projekt übernehmen                               | 30 Min        |
+| 17.A | Nathan Göhl    | Koordination der Teammitglieder und deren Aufgaben                           | 45 Min        |
+| 18.A | Nathan Göhl    | Sicherstellung, dass das Projekt im Zeitrahmen bleibt                        | 30 Min        |
+| 19.A | Nathan Göhl    | Kommunikation mit Stakeholdern und Berichterstattung über den Projektfortschritt | 45 Min    |
+| 20.A | Nathan Göhl    | Lösung von Konflikten und Problemen innerhalb des Teams                      | 45 Min        |
+| 21.A | Liam Koch      | Erstellung und Verwaltung des Projektzeitplans                               | 60 Min        |
+| 22.A | Liam Koch      | Sicherstellung, dass alle Teammitglieder ihre Aufgaben rechtzeitig erledigen | 45 Min        |
+| 23.A | Liam Koch      | Identifikation von Engpässen und Erarbeitung von Lösungen zur Einhaltung des Zeitplans | 45 Min  |
+| 24.A | Liam Koch      | Regelmässige Aktualisierung des Projektzeitplans und Kommunikation von Änderungen an das Team | 45 Min |
+| 25.A | Elias Spycher  | Definition und Überwachung der Qualitätsstandards für das Projekt            | 60 Min        |
+| 26.A | Elias Spycher  | Durchführung von Code-Reviews                                      | 60 Min        |
+| 27.A | Elias Spycher  | Dokumentation und Kommunikation von Qualitätsproblemen und deren Lösung      | 45 Min        |
+| 28.A | Elias Spycher  | Unterstützung des Teams bei der Implementierung von Best Practices zur Qualitätsverbesserung | 45 Min |
+| 29.A | Filip Mirovic  | Identifikation und Bewertung potenzieller Risiken für das Projekt            | 45 Min        |
+| 30.A | Filip Mirovic  | Entwicklung und Umsetzung von Strategien zur Risikominimierung               | 60 Min        |
+| 31.A | Filip Mirovic  | Überwachung und Dokumentation von Risiken während des Projektverlaufs        | 45 Min        |
+| 32.A | Filip Mirovic  | Kommunikation von Risiken und entsprechenden Massnahmen an das Team und die Stakeholder | 45 Min |
+| 33.A | Filip Mirovic  | Wöchentliche Erstellung von Testprotokollen. | 45 Min |
 
 ## 3 Entscheiden
 
