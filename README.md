@@ -37,10 +37,22 @@ Man kann entscheiden, ob Sonderzeichen vorkommen sollen.
 
 
 
+
+
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
+| 1    | Muss            | Funktional | Als Benutzer möchte ich die Länge des Passworts festlegen können, um sicherzustellen, dass es den Sicherheitsanforderungen entspricht. |
+| 2    | Muss            | Funktional | Als Benutzer möchte ich auswählen können, ob Buchstaben im Passwort enthalten sein sollen, um die Komplexität des Passworts zu erhöhen. |
+| 3    | Muss            | Funktional | Als Benutzer möchte ich auswählen können, ob Zahlen im Passwort enthalten sein sollen, um die Komplexität des Passworts zu erhöhen. |
+| 4    | Muss            | Funktional | Als Benutzer möchte ich auswählen können, ob Sonderzeichen im Passwort enthalten sein sollen, um die Sicherheit des Passworts zu erhöhen. |
+| 5    | Muss            | Funktional | Als Benutzer möchte ich ein Passwort basierend auf meinen gewählten Kriterien generieren können, um ein sicheres Passwort zu erhalten. |
+| 6    | Soll            | Funktional | Als Benutzer möchte ich das generierte Passwort bestätigen oder ablehnen können, um sicherzustellen, dass es meinen Anforderungen entspricht. |
+| 7    | Soll            | Funktional | Als Benutzer möchte ich eine Fehlermeldung erhalten, wenn ich eine ungültige Eingabe mache (z.B. negative Passwortlänge), um Korrekturen vornehmen zu können. |
+| 8    | Soll            | Funktional | Als Benutzer möchte ich das Programm ordnungsgemäss schliessen können, um meine Arbeit sicher abzuschliessen. |
+| 9    | Kann            | Funktional | Als Benutzer möchte ich regelmässige Updates und Verbesserungen im Programm erhalten, um die Funktionalität und Sicherheit zu erhöhen. |
+| 10   | Soll            | Funktional | Als Benutzer möchte ich, dass das Programm meine Auswahl der Kriterien speichert und diese korrekt anwendet, um die Benutzerfreundlichkeit zu erhöhen. |
 
 
 
