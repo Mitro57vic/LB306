@@ -9,7 +9,7 @@ namespace PasswortGenerator
             Random rnd = new Random();
             StringBuilder passwort = new StringBuilder();
 
-            var mapping = new Dictionary<int, char>
+            var mapping = new Dictionary<int, char> //Mapping für alle Zeichen, die Generiert werden können.
             {
                 { 1, '1' }, 
                 { 2, '2' }, 
