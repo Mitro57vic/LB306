@@ -151,52 +151,53 @@ namespace PasswortGenerator
 
                 // Fügen Sie das entsprechende Zeichen zum Passwort hinzu
                 passwort.Append(mapping[randomKey]);
-                while (true)
+            }
+
+            while (true)
+            {
+                // Geben Sie das generierte Passwort zurück
+                Console.WriteLine(passwort);
+                Console.WriteLine("\r\n   ");
+                Console.WriteLine("Bist du Zufrieden mit deinem Passwort?");
+                
+                Console.Write("Wenn die ");
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.Write("Umschalttaste");
+                Console.ResetColor();
+                Console.WriteLine(" gedrückt wird, starten Sie das Programm neu");
+                
+                Console.Write("Wenn die ");
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.Write("Entertaste");
+                Console.ResetColor();
+                Console.WriteLine(" gedrückt wird, generieren Sie ein neues Passwort mit den gleichen Einstellungen");
+            
+                Console.Write("Wenn die ");
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.Write("Escapetaste");
+                Console.ResetColor();
+                Console.WriteLine(" gedrückt wird, beenden Sie das Programm");
+                
+                ConsoleKeyInfo keyInfo = Console.ReadKey(true);
+            
+                if (//keyInfo.Key == ConsoleKey.Enter &&
+                    keyInfo.Key == ConsoleKey.Tab)
                 {
-                    // Geben Sie das generierte Passwort zurück
-                    Console.WriteLine(passwort);
-                    Console.WriteLine("\r\n   ");
-                    Console.WriteLine("Bist du Zufrieden mit deinem Passwort?");
-                    
-                    Console.Write("Wenn die ");
-                    Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.Write("Umschalttaste");
-                    Console.ResetColor();
-                    Console.WriteLine(" gedrückt wird, starten Sie das Programm neu");
-                    
-                    Console.Write("Wenn die ");
-                    Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.Write("Entertaste");
-                    Console.ResetColor();
-                    Console.WriteLine(" gedrückt wird, generieren Sie ein neues Passwort mit den gleichen Einstellungen");
-                
-                    Console.Write("Wenn die ");
-                    Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.Write("Escapetaste");
-                    Console.ResetColor();
-                    Console.WriteLine(" gedrückt wird, beenden Sie das Programm");
-                    
-                    ConsoleKeyInfo keyInfo = Console.ReadKey(true);
-                
-                    if (//keyInfo.Key == ConsoleKey.Enter &&
-                        keyInfo.Key == ConsoleKey.Tab)
-                    {
-                        // Wenn die Umschalttaste gedrückt wird, startet das Program neu
-                        Console.Clear();
-                        Program.StartProgram();
-                    }
-                    else if (keyInfo.Key == ConsoleKey.Enter)
-                    {
-                        //Passwort neu generieren mit den gleichen Optionen
-                        Console.Clear();
-                        PasswortGenerieren(passwortLänge, ausgewählteOptionen);
-                    }
-                    else if (keyInfo.Key == ConsoleKey.Escape)
-                    {
-                        // Wenn die Escapetaste gedrückt wird, beenden Sie das Programm
-                        Console.Clear();
-                        Environment.Exit(0);
-                    }
+                    // Wenn die Umschalttaste gedrückt wird, startet das Program neu
+                    Console.Clear();
+                    Program.StartProgram();
+                }
+                else if (keyInfo.Key == ConsoleKey.Enter)
+                {
+                    //Passwort neu generieren mit den gleichen Optionen
+                    Console.Clear();
+                    PasswortGenerieren(passwortLänge, ausgewählteOptionen);
+                }
+                else if (keyInfo.Key == ConsoleKey.Escape)
+                {
+                    // Wenn die Escapetaste gedrückt wird, beenden Sie das Programm
+                    Console.Clear();
+                    Environment.Exit(0);
                 }
             }
         }
