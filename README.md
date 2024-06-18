@@ -269,21 +269,7 @@ Hier ist die vollständig ausgefüllte Tabelle:
 
 ## 5 Kontrollieren
 
-### 5.1 Testprotokoll
 
-04.06.24
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-|   1   |   04.06.24    |    Funktioniert      |    Filip Mitrovic    |
-|    2  |   04.06.24    |    Funktioniert      |   Filip Mitrovic     |
-|     3 |    04.06.24   |    Funktioniert nicht      |   Filip Mitrovic     |
-|   4   |    04.06.24    |     Funktioniert nicht     |   Filip Mitrovic     |
-|   5   |     04.06.24   |     Funktioniert nicht     |      Filip Mitrovic   |
-|    6  |     04.06.24   |    Funktioniert nicht      |     Filip Mitrovic    |
-|    7  |    04.06.24    |    Funktioniert nicht      |    Filip Mitrovic     |
-|   8   |    04.06.24    |      Funktioniert nicht   |     Filip Mitrovic    |
-|   9   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
-|   10   |    04.06.24    |      Funktioniert    |     Filip Mitrovic    |
 
 `Fazit zum Testen am 04.06.24:`
 Heute haben wir mit der Realisierung begonnen und konnten im Pair Programming bereits einige erfolgreiche Programmieraufgaben abschließen. Leider sind wir auf Probleme gestoßen, als es um die Auswahl der Kriterien ging. Nachdem die Kriterien ausgewählt wurden, hat das Programm diese nicht angenommen, sondern die Konsole geleert. Beim Drücken der Enter-Taste wurde erneut die Auswahl der Kriterien angezeigt.
