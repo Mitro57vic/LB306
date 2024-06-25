@@ -25,9 +25,9 @@
                 {
                     Console.WriteLine("Ungültige Eingabe, Bitte verwende nur Zahlen.");
                     continue;
-                }
+                }   
 
-                if (passwortLänge <= 6)
+                if (passwortLänge <= 20)
                 {
                     Console.WriteLine("Das ist aber zu kurz, bitte gebe ein genug langes ein");
                 }
